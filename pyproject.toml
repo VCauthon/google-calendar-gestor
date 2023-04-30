@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "google-calendar-gestor"
+version = "0.1.0"
+description = "This project utilizes Python to manage events of a Google Calendar through a command-line interface"
+authors = ["Victor Mas Montserrat <victormasmon@gmail.com>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+google-auth = "^2.17.3"
+google-api-python-client = "^2.86.0"

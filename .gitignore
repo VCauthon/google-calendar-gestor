@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Poetry fields
+/src/*.egg-info
+
+# Google credentials
+credentials.json
