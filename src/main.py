@@ -14,6 +14,6 @@ Here are some example commands that a Python CLI script working with the Google 
 
 7. Search events command: This command allows the user to search for events on a specified calendar using specific criteria, such as date range, keyword, or event type.
 
- 8. create event based on gpt prom
+ 8. create event based on gpt prom - tagged events add context of how do it
   
 These commands can be implemented using the appropriate methods and endpoints from the Google API Python client library.
